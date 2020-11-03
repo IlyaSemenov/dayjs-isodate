@@ -1,5 +1,5 @@
 import dayjs from "dayjs"
-import dayjs_isodate from "dayjs_isodate"
+import dayjs_isodate from "dayjs-isodate"
 import tap from "tap"
 
 dayjs.extend(dayjs_isodate)

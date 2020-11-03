@@ -3,14 +3,14 @@
 ## Install
 
 ```
-yarn add dayjs_isodate
+yarn add dayjs-isodate
 ```
 
 ## Use
 
 ```ts
 import dayjs from "dayjs"
-import dayjs_isodate from "dayjs_isodate"
+import dayjs_isodate from "dayjs-isodate"
 
 dayjs.extend(dayjs_isodate)
 
